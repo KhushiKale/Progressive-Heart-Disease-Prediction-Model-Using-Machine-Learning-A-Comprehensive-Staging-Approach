@@ -1,0 +1,12 @@
+# Problem Definition:
+Heart disease remains a significant global health concern, contributing to a substantial number of morbidity and mortality cases. Early detection and accurate prediction of heart disease and its stages can play a pivotal role in preventing adverse outcomes and improving
+patient outcomes. The complexity of cardiovascular health necessitates the development of advanced predictive models leveraging modern computational techniques and health data. In this project, we have designed a model which will predict the severity of heart disease(stages) and also predict the possibility of heart disease based on the symptoms provided by the patient.
+
+# Objective:
+1. It can analyze large amounts of patient data, including medical records, imaging tests to identify patterns and predict the risk of developing heart disease. Machine learning algorithms can also assist in identifying specific heart conditions, such as arrhythmias, based on ECG data.
+2. The primary objective is to design and implement a predictive model capable of accurately predicting the likelihood of heart disease and its potential stages based on relevant patient data.
+3. The objective of this project is to check whether the patient is likely to be diagnosed with any cardiovascular heart disease based on their medical attributes such as gender, age, chest pain, fasting sugar level, etc and also predict the stages.
+
+# Significance:
+1. Machine learning algorithms, fed with vast patient data, effectively predict heart disease risk, enabling personalized medicine and improved healthcare outcomes.
+2. Disease Prediction using Machine Learning is the system that is used to predict the diseases from the symptoms which are given by the patients or any user. The system processes the symptoms provided by the user as input and gives the output as the
