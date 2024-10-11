@@ -1,0 +1,2 @@
+# Progressive-Heart-Disease-Prediction-Model-Using-Machine-Learning-A-Comprehensive-Staging-Approach
+The Progressive Heart Disease Prediction Model uses machine learning to predict the presence and stage of heart disease based on clinical features. It applies a staging approach to aid in early detection, diagnosis, and treatment planning, providing accurate risk assessments for improved healthcare decision-making.
